@@ -4,7 +4,7 @@
 #
 Name     : mvn-scala-logging
 Version  : 3.9.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/lightbend/scala-logging/archive/v3.9.0.tar.gz
 Source0  : https://github.com/lightbend/scala-logging/archive/v3.9.0.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/com/typesafe/scala-logging/scala-logging_2.12/3.9.0/scala-logging_2.12-3.9.0.jar
